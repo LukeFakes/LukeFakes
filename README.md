@@ -3,6 +3,10 @@
 <!--
 **LukeFakes/LukeFakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/luke-fakes-03192abb"
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
