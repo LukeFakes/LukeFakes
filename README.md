@@ -16,11 +16,9 @@ Co-author:
 
 
 ## Background/Qualifications
+* **(Current) Doctor of Philosophy, Chemistry**, Department of Chemistry, University of York
 * **MSc Data Science & Analytics**, Department of Mathematics, University of Leeds. 
-
-
 * **MChem Chemistry with a Year in Industry**, Department of Chemistry, University of York
-
 
 
 
